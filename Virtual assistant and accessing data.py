@@ -10,3 +10,10 @@ c.fetchall()
 
 #result
 [( 'Grand Hotel', 'hi', 'south', 5)]
+
+#exercise 
+import sqlite3
+c = conn.cursor()
+c.execute (Select name from hotels where price = 'mid' AND area = 'north')
+c.fetchall
+

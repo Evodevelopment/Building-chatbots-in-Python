@@ -17,7 +17,6 @@ c = conn.cursor()
 c.execute (Select name from hotels where price = 'mid' AND area = 'north')
 c.fetchall
 
-
 #exercise2
 # Import sqlite3
 import sqlite3
@@ -38,8 +37,20 @@ c.execute("SELECT * FROM hotels WHERE area= 'south' AND price= 'hi' ")
 # Print the results
 print(c.fetchall())
 
-#exercise3
+#exercise 3
 
+# Create the dictionary of column names and values
+params = {
+    "area": "south",
+    "price": "lo"
+}
+
+
+# Find the hotels that match the parameters
+print(find_hotels(params))
+
+
+# exercise 4
 # Define find_hotels()
 def find_hotels(params):
     # Create the base query

@@ -39,14 +39,13 @@ print(c.fetchall())
 
 #exercise 3
 
-# Create the dictionary of column names and values
+# Create the params dictionary with the column names (keys) "area" and "price", with corresponding values "south" and "lo"
 params = {
     "area": "south",
     "price": "lo"
 }
 
-
-# Find the hotels that match the parameters
+# Use the find_hotels() function along with your params dictionary to find all inexpensive hotels in the South.
 print(find_hotels(params))
 
 

@@ -52,11 +52,10 @@ def find_hotels(params):
     t = tuple(params.values())
     
     # Open connection to DB
-    conn = sqlite3.connect("hotels.db")
+    conn = sqlite3.connect('hotels.db')
     # Create a cursor
     c = conn.cursor()
     # Execute the query
-     
     c.execute(query, t)
     # Return the results
-    print(c.fetchall())
+    return c.fetchall()

@@ -33,11 +33,15 @@ time.sleep(0.5)
 #Consider integration: If your chatbot needs to interact with external systems or APIs, implement the necessary integration logic.
 #This could involve retrieving data, processing requests, or performing actions based on user input.
 
-Handle errors and exceptions: Implement proper error handling and exception management to gracefully handle unexpected user inputs or system failures. Provide clear error messages and guide users toward appropriate actions or alternatives.
+#Handle errors and exceptions: Implement proper error handling and exception management to gracefully handle unexpected user inputs 
+#or system failures. Provide clear error messages and guide users toward appropriate actions or alternatives.
 
-Continuously improve: Monitor the performance and user experience of your chatbot. Analyze user interactions, collect feedback, and use analytics to identify areas for improvement. Regularly update and enhance your chatbot's capabilities to provide a better user experience.
+#Continuously improve: Monitor the performance and user experience of your chatbot. Analyze user interactions, collect feedback, 
+#and use analytics to identify areas for improvement. Regularly update and enhance your chatbot's capabilities to provide a better 
+#user experience.
 
-Remember, building a chatbot is an iterative process, and it requires testing, refining, and continuously improving based on user feedback. Stay open to user suggestions and adapt your chatbot accordingly to meet user needs.
+Remember, building a chatbot is an iterative process, and it requires testing, refining, and continuously improving based on 
+user feedback. Stay open to user suggestions and adapt your chatbot accordingly to meet user needs.
 
 I hope these tips provide you with a helpful starting point for building your chatbot in Python. Good luck with your project!
 

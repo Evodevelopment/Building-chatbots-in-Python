@@ -16,15 +16,16 @@ time.sleep(0.5)
 #This can be done through a command-line interface, a web interface, or any other suitable means. 
 #Consider using a Python library like Flask or Django for building a web interface.
 
-Implement NLP capabilities: Use an NLP library to handle natural language understanding (NLU) tasks such as intent 
-recognition, entity extraction, and sentiment analysis. Libraries like NLTK, spaCy, or Rasa can assist you in processing and 
-analyzing user input.
+#Implement NLP capabilities: Use an NLP library to handle natural language understanding (NLU) tasks such as intent 
+#recognition, entity extraction, and sentiment analysis. Libraries like NLTK, spaCy, or Rasa can assist you in processing and 
+#analyzing user input.
 
-Train your chatbot: Train your chatbot using appropriate training data. This can involve training your model with example conversations, pre-defined responses, or datasets specific to your application domain.
+#Train your chatbot: Train your chatbot using appropriate training data. This can involve training your model with example 
+#conversations, pre-defined responses, or datasets specific to your application domain.
 
 #Design conversation flow: Plan and design the flow of conversations and interactions with the user. D
-etermine how your chatbot will respond to different user inputs and handle various scenarios. Implement appropriate logic and 
-decision-making processes to guide the conversation flow.
+#etermine how your chatbot will respond to different user inputs and handle various scenarios. Implement appropriate logic and 
+#decision-making processes to guide the conversation flow.
 
 #Test and iterate: Regularly test your chatbot and gather feedback to identify areas for improvement. 
 #Iteratively refine your chatbot based on user testing, incorporating user feedback, and continuously improving its performance.

@@ -43,7 +43,7 @@ time.sleep(0.5)
 Remember, building a chatbot is an iterative process, and it requires testing, refining, and continuously improving based on 
 user feedback. Stay open to user suggestions and adapt your chatbot accordingly to meet user needs.
 
-I hope these tips provide you with a helpful starting point for building your chatbot in Python. Good luck with your project!
+
 
 
 

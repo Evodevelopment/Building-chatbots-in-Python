@@ -34,4 +34,3 @@ print(respond("I want an expensive hotel in the south of town"))
 #into the response.
 
 #Please ensure that you have implemented the find_hotels() function and have the responses list defined appropriately.
-

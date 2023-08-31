@@ -7,3 +7,4 @@ If you want to create delay in the chatbot response you need to import the time 
 import time
 time.sleep(0.5)
 # the argument of the method is the amount of seconds of the delay
+
